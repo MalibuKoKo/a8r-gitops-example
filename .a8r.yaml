@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 50159f73-4975-5483-afa0-b38f1bd3d496
+    cluster_name: Nicolas COLLET's cluster
